@@ -10,6 +10,9 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+        Name: <input type="text" name="txtname"><br/>
+        City:<input type="text" name="txtcity"><br/>
+        
         <?php
         // put your code here
         echo "This is unit test practical exam of SCM";
